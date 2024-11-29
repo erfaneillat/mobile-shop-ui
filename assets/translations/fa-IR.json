@@ -1,0 +1,26 @@
+{
+  "gamino_shop": "فروشگاه گیمینو",
+  "welcome_page_description":"فروشگاه تخصصی لوازم بازی های رایانه ای و کنسول بازی",
+  "create_account":"ایجاد حساب کاربری",
+  "sign_up_before":"قبلا ثبت نام کرده ام",
+  "email":"ایمیل",
+  "password":"رمزعبور",
+  "password_hint":"رمزعبور دلخواه حداقل 5 کاراکتر",
+  "sign_up":"ثبت نام",
+  "login":"ورود",
+  "unexpected_failure_message":"مشکلی پیش آمد!",
+  "email_error":"ایمیل معتبری وارد کنید",
+  "password_min_error":"رمزعبور باید حداقل 5 کاراکتر باشد",
+  "user_not_found_failure_message":"کاربری با این مشخصات یافت نشد",
+  "exit":"خروج",
+  "shop":"فروشگاه",
+  "description":"توضیحات",
+  "more":"بیشتر",
+  "less":"کمتر",
+  "select_color":"انتخاب رنگ",
+  "add_to_cart":"افزودن به سبد خرید",
+  "return":"بازگشت"
+   
+  
+
+}
