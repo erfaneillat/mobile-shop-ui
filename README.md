@@ -1,16 +1,6 @@
 # mobileshop
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-11-30_12-19-39](https://github.com/user-attachments/assets/b312cf06-232f-4a39-b01b-2a6defae89cc)
+![photo_2024-11-30_12-19-40](https://github.com/user-attachments/assets/b39a1821-0f7e-4826-84c0-740c498cc5d5)
+![photo_2024-11-30_12-19-42](https://github.com/user-attachments/assets/8d55991d-d70c-4c16-8aaa-d70d42fdf124)
+![photo_2024-11-30_12-19-37](https://github.com/user-attachments/assets/ca8344d6-d847-47a0-a72c-63722e0e3dde)
